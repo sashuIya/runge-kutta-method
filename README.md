@@ -3,8 +3,8 @@ Overview
 
 This program solves the differential equation system 
 
-x' = x + y
-y' = (alpha - 1) * y + (alpha - 2) * x - x^3 - x^2 * y
+	x' = x + y
+	y' = (alpha - 1) * y + (alpha - 2) * x - x^3 - x^2 * y
 
 with Runge-Kutta method.
 
